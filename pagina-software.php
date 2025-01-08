@@ -23,6 +23,7 @@
         }
     }
     ?>
+    <button style="background-color: blue;"><a href="comprar-software.php" style="text-decoration: none; color: white;">Comprar</a></button>
     <?php $l->close() ?>
 </body>
 </html>
